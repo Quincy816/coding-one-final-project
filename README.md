@@ -7,6 +7,7 @@
   I feel like that what we have learnt each week are all so important that can not be ignored.
 Both the 3d model setting and the logical operation of coordinates can be used to create what we want to express.
   So let us see what I have done.
+  vedio link from Youtube:https://youtu.be/c2_Zm63rUqQ
 
 # Part One
   This scene is about the shinning and flashing stars.
