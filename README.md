@@ -14,3 +14,11 @@ To describe when we are at the center of the galaxy, what can we see ?
 I used the function of trigonometry and the angles to control the points.
 
 # Part Three
+I used some simple nesting of for functions and if functions, plus some use of random to construct a flowing futuristic river effect.
+
+# Part Four
+This part called bluerose.
+I used simple lines changes to create the flower frame and it can change for long time.
+
+# Conclusion
+Actually what I want to show is the experience of us humanbeing travel through time and then come into a totally new galaxy, We found different environment and new ecology.
