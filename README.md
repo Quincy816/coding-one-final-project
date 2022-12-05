@@ -14,11 +14,11 @@
   I used the function of trigonometry and the angles to control the points.
 
 # Part Three
-  I used some simple nesting of for functions and if functions, plus some use of random to construct a flowing futuristic river effect.
+  I used some simple nesting of for functions and if functions, plus some use of random to construct a flowing futuristic river effect. And I also used the eventlistner of the mouse and the keyboard make it accessible for users to control the scene by interactions from the input of computers.
 
 # Part Four
-  This part called bluerose.
-I used simple lines changes to create the flower frame and it can change for long time.
+  This part of job is called bluerose.
+  I used simple lines-change to create the flower frame and it can keep changing for long time.
 
 # Conclusion
   Actually what I want to show is the experience of humanbeings travel through time and then come into a totally new galaxy, We found different environment and new ecology. They are all so breathtakingly beautiful, and finally we found our own rose at our own planet, just like the little prince story.
